@@ -1,0 +1,18 @@
+Patrol Cop (Node js)
+--------------------
+
+To run this app simply install the following in order (on a Terminal (ubuntu))
+ "node js"
+ "npm"
+
+install the following dependencies using npm 
+ "body-parser" npm install body-parser
+ "crypto-js"
+ "express" 
+
+to start the app run
+node index.js
+
+controlls:
+use keyboard arrows to drive around.
+use key 'L' to locate or get the cop car current coordinates
